@@ -1,0 +1,32 @@
+#logo{
+    width:150px;
+    background-color: aliceblue;
+    border-radius:10px;
+
+}
+.content{
+    display:flex;
+    align-items: center;
+   
+    gap:20px;
+
+}
+.content h2{
+    font-size:20px;
+}
+.list{
+font-weight: bolder;
+font-size: 17px;
+}
+.footer1 img{
+    width:200px;
+
+}
+.footer1 .imgBox{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.imgBox1 img{
+    width:100%;
+}
